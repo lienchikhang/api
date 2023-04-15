@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "K.D.Bruyne",
+    "team": "manCity",
+    "Age": 31,
+    "position": "CAM"
+  },
+  {
+    "id": 2,
+    "fullName": "Ruben Dias",
+    "team": "manCity",
+    "Age": 25,
+    "position": "CB"
+  },
+  {
+    "id": 3,
+    "fullName": "E.HaaLand",
+    "team": "manCity",
+    "Age": 22,
+    "position": "ST"
+  },
+  {
+    "id": 4,
+    "fullName": "B.Silva",
+    "team": "manCity",
+    "Age": 28,
+    "position": "CM"
+  },
+  {
+    "id": 5,
+    "fullName": "J.Alvarez",
+    "team": "manCity",
+    "Age": 22,
+    "position": "CF"
+  }
+]
